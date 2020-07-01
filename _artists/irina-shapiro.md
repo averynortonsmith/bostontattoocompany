@@ -26,6 +26,8 @@ work_images:
 - "/uploads/F540815D-14F1-4000-8FED-C85E0DB4D1E4.jpeg"
 - "/uploads/62E2269E-71D9-490D-8658-905F9FA355F8.jpeg"
 - "/uploads/6261CD12-4EB9-43DC-8ED6-5F1DB4E1C54D.jpeg"
+- "/uploads/56F79CC8-9FD0-46FD-839D-571E8A8D1B37.jpeg"
+- "/uploads/E60EFB63-F60D-4903-B424-37C068BDCB6E.jpeg"
 Field name: 
 layout: profile
 ---
