@@ -1,6 +1,7 @@
 ---
 title: Olivia Hartranft
 date: 2020-07-18 13:57:00 -04:00
+published: false
 main_image: "/uploads/OLIVIAHART-c300e9.jpg"
 profile_image: "/uploads/IMG_3158.jpeg"
 order: 8
