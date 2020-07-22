@@ -3,6 +3,19 @@ title: Irina Shapiro
 date: 2019-06-16 20:36:00 -04:00
 categories:
 - cambridge
+tags:
+- tattoo
+- tattoos
+- colortattoo
+- colortattoos
+- floraltattoo
+- flower
+- flowers
+- flowertattoos
+- colorfloraltattoo
+- floraltattoos
+- bostontattoo
+- bostontattooartist
 position: 10
 main_image: "/uploads/irinashapiro.jpg"
 profile_image: "/uploads/IMG_2750.jpeg"
