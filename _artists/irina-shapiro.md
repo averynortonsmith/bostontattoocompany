@@ -27,6 +27,7 @@ profile_image: "/uploads/IMG_2750.jpeg"
 order: 6
 work_images:
 - "/uploads/AC4DD10B-F230-4B15-AF7E-01B2CDD5616D.jpeg"
+- "/uploads/9662B737-5C20-4984-95D2-D91BBC1E3854.jpeg"
 - "/uploads/F83D2545-3233-49A0-9EED-887D7E930F6C.jpeg"
 - "/uploads/98215235-9E5C-46F7-9C2D-C9F3BAB999BC.jpeg"
 - "/uploads/4863A41F-4121-4BFA-BCBA-9A0AE69A9609.jpeg"
@@ -54,7 +55,6 @@ work_images:
 - "/uploads/IMG_7195-416ef1.jpg"
 - "/uploads/102D207E-C2F0-4C5B-B4A9-27E8249ACF75.jpeg"
 - "/uploads/D345987B-EEB3-49AA-A3AF-09047FAB181F.jpeg"
-- "/uploads/9662B737-5C20-4984-95D2-D91BBC1E3854.jpeg"
 - "/uploads/2CC2E14A-E23A-4D72-AD3C-4011112D579C.jpeg"
 Field name: 
 layout: profile
